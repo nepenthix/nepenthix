@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "887WGURHQF.com.zhengyuchao.NFC"
+        ],
+        "components": [
+          {
+            "/": "/download/*",
+            "comment": "download app"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "887WGURHQF.com.zhengyuchao.NFC.Clip"
+    ]
+  }
+}
